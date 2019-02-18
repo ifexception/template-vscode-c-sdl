@@ -1,0 +1,1 @@
+# A VSCode template for using SDL with MinGW
